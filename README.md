@@ -2,9 +2,9 @@
 
 YAML 파일로부터 전문적인 한국어 기술 문서를 자동으로 Word 문서(.docx)로 생성하는 프로그램입니다.
 
-<img width="200" height="100" alt="1" src="https://github.com/user-attachments/assets/16078f0f-2772-4613-beb4-b98fde820bac" />
-<img width="150" height="200" alt="2" src="https://github.com/user-attachments/assets/75e7fbf5-10a0-4abe-b224-c0840c6df48b" />
-<img width="150" height="200" alt="3" src="https://github.com/user-attachments/assets/ec6d39ec-3b9c-47e2-bc95-a9c44492b72c" />
+<img width="300" height="200" alt="1" src="https://github.com/user-attachments/assets/16078f0f-2772-4613-beb4-b98fde820bac" />
+<img width="200" height="250" alt="2" src="https://github.com/user-attachments/assets/75e7fbf5-10a0-4abe-b224-c0840c6df48b" />
+<img width="200" height="250" alt="3" src="https://github.com/user-attachments/assets/ec6d39ec-3b9c-47e2-bc95-a9c44492b72c" />
 
 ## 주요 기능
 
